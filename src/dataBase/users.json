@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Martin",
+    "apellido": "Martincorena",
+    "email": "mmartincorena@gmail.com",
+    "password": "$2a$10$Hk36i6Xnetui8YgfsAZpWO5rUEqZ.WncM/1Nb8dwyH6xHKl8L7zTe",
+    "confirmPassword": "$2a$10$rT9tdQE6QHsw7L3wUH18wOzFnpQ5qr4599Kpok9VGKtat0VKNRwcS",
+    "avatar": "user-img1642376672271.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Enrique",
+    "apellido": "Martinez",
+    "email": "emartinez@gmail.com",
+    "password": "$2a$10$UrpkypG4X07E97Jx2jynAuknYq/yt31P6sOwFNwKLd9kKkOPw5zDm",
+    "confirmPassword": "$2a$10$UKL0xvhkbkiTyMS99CRFO.U.ScHzxEP08.4vKcu4SaPBvwLesGyEW",
+    "avatar": "user-img1642727367613.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Emidio",
+    "apellido": "Tassone",
+    "email": "etassone@gmail.com",
+    "password": "$2a$10$xNgIDTB6mgEd1XEDRfDkQeh6EzO4m68Yumov9GAXrdnHizbFlLzd6",
+    "confirmPassword": "$2a$10$UhULBqn8T4dlm5UKCGXK4eh6I4se200hNEO7rggj3Xr4zlXmwlvoi",
+    "avatar": "user-img1642727465328.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Willy",
+    "apellido": "Romero",
+    "email": "wromero@gmail.com",
+    "password": "$2a$10$HGJCYOc1yW7OZhp.IMqtVeJBzh1PYtcmILCXAiqmGTo/vPn.ObreW",
+    "confirmPassword": "$2a$10$Hgxb1sqo2sEEygMxgrVH2Oa9RoZ6gdB0Q/hVOhulWesmQnDpgV7cK",
+    "avatar": "user-img1642727509544.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Guason",
+    "apellido": "Guason",
+    "email": "guason@gmail.com",
+    "password": "$2a$10$IRtCc1SyLFK8YvUwpHCKEepien3Q7TtWNje7HQzN0P5v4xgw4uRqW",
+    "confirmPassword": "$2a$10$20B5jhqkjgTAA5J2OBleMeHDYUgr8Gt.aplob7/q7OEnucjMUB676",
+    "avatar": "user-img1664473089510.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "email": "juan@perez.com",
+    "password": "$2a$10$CaZhN443y6Q9Gs9cNxXwzuIw.nA8dF14WgQ5eBCvb21R3mOJrmdqe",
+    "confirmPassword": "$2a$10$GqI6wqsOMWv6SD4aXt0zxu48dG3Fl7Jtaur2qVnJ/p4w8K8Rxa/aC",
+    "avatar": "user-img1664474279526.jpeg"
+  }
+]
